@@ -60,14 +60,3 @@ Este projeto tem como objetivo a criação de uma ferramenta visual e analítica
 - Apoio à tomada de decisão baseada em dados
 - Fácil adaptação para outras plataformas de assinatura
 
----
-
-## 📄 Licença
-
-Projeto de uso educacional e livre. Disponível sob a licença MIT.
-
----
-
-## 🤝 Contribuições
-
-Sugestões, correções e melhorias são bem-vindas! Abra uma issue ou envie um pull request.
